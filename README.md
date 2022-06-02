@@ -1,2 +1,7 @@
 # duo-story
-Florent le français, Dushen the english, Julienus latinus. ありがとうございました
+Florent le français aime les escalopes milanaises !
+Dushen the english loves Pizzas !
+Julienus latinus amant lasagna. 
+日本の愛酒
+
+ありがとうございました
